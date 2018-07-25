@@ -1,6 +1,6 @@
 # Java Challenges
 
-This has the tricky Java Challenges I faced and their solutions..
+Various Java Challenges I faced with their solutions..
 
 ***In order to best access your performance, I recommend to try to solve the problem before taking a look at the solution.***
 
