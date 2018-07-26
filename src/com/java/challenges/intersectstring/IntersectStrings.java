@@ -10,7 +10,7 @@ import java.util.Set;
  * GitHub: https://github.com/no-1ankush
  * LinkedIn: www.linkedin.com/in/no1ankush
  */
-public class IntersectStringChallenge 
+public class IntersectStrings 
 {
 	/**
 	 * PSVM
