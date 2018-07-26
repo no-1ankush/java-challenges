@@ -1,11 +1,11 @@
 # Intersect Strings
 
-### Problem Statement: ###
+## Problem Statement: ##
 Intersect two Strings and print the output in the same order as the first String.
 
 **Note:** Output should not have duplicates
 
-### Sample Input/Output: ###
+## Sample Input/Output: ##
 
 <table>
     <thead>
