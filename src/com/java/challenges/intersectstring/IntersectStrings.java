@@ -20,37 +20,37 @@ public class IntersectStrings
 		//Test Case # 1 - All Matching Characters (Non-Repetitive)
 		String inputStringOne = "ABCDEF";
 		String inputStringTwo = "ABCDEF";
-		String outputString = getIintersetedStrings(inputStringOne, inputStringTwo);
+		String outputString = getIntersetedStrings(inputStringOne, inputStringTwo);
 		printResults(inputStringOne, inputStringTwo, outputString);
 		
 		//Test Case # 2 - All Matching Characters (Repetitive)
 		inputStringOne = "AAAAAA";
 		inputStringTwo = "AAAAAA";
-		outputString = getIintersetedStrings(inputStringOne, inputStringTwo);
+		outputString = getIntersetedStrings(inputStringOne, inputStringTwo);
 		printResults(inputStringOne, inputStringTwo, outputString);
 		
 		//Test Case # 3 - No Matching Characters (Non-Repetitive)
 		inputStringOne = "ABCABC";
 		inputStringTwo = "DEFDEF";
-		outputString = getIintersetedStrings(inputStringOne, inputStringTwo);
+		outputString = getIntersetedStrings(inputStringOne, inputStringTwo);
 		printResults(inputStringOne, inputStringTwo, outputString);
 		
 		//Test Case # 4 - No Matching Characters (Repetitive)
 		inputStringOne = "AAAAAA";
 		inputStringTwo = "ZZZZZZ";
-		outputString = getIintersetedStrings(inputStringOne, inputStringTwo);
+		outputString = getIntersetedStrings(inputStringOne, inputStringTwo);
 		printResults(inputStringOne, inputStringTwo, outputString);
 		
 		//Test Case # 5 - Multiple Matching Characters (Repetitive)
 		inputStringOne = "AABBCC";
 		inputStringTwo = "CCDDEE";
-		outputString = getIintersetedStrings(inputStringOne, inputStringTwo);
+		outputString = getIntersetedStrings(inputStringOne, inputStringTwo);
 		printResults(inputStringOne, inputStringTwo, outputString);
 		
 		//Test Case # 6 - Multiple Matching Characters (Non-Repetitive)
 		inputStringOne = "ZYXWVU";
 		inputStringTwo = "RSTUVW";
-		outputString = getIintersetedStrings(inputStringOne, inputStringTwo);
+		outputString = getIntersetedStrings(inputStringOne, inputStringTwo);
 		printResults(inputStringOne, inputStringTwo, outputString);
 	}
 	
@@ -76,7 +76,7 @@ public class IntersectStrings
 	 * @param inputStringTwo
 	 * @return String
 	 */
-	private static String getIintersetedStrings (String inputStringOne, String inputStringTwo) {
+	private static String getIntersetedStrings (String inputStringOne, String inputStringTwo) {
 		//Remove Duplicate Characters
 		Set<Character> setOne = getStringAsHashSet(inputStringOne);
 		Set<Character> setTwo = getStringAsHashSet(inputStringTwo);
