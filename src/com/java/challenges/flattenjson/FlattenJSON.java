@@ -12,7 +12,7 @@ import java.util.Map;
  * GitHub: https://github.com/no-1ankush
  * LinkedIn: www.linkedin.com/in/no1ankush
  */
-public class FlattenJSONChallenge {
+public class FlattenJSON {
 
 	public static void main(String[] args) {
 		executeInputForScenario1();
