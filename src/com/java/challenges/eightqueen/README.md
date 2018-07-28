@@ -8,6 +8,8 @@ Given an array of string is being passed which consist of the location of the Ei
 
 **For example:** If input array is ["(2,1)", "(4,2)", "(6,3)", "(8,4)", "(3,5)", "(1,6)", "(7,7)", "(5,8)"] then the program should return true. 
 
+![picture alt](https://github.com/no-1ankush/java-challenges/blob/master/src/com/java/challenges/eightqueen/Eight_Queen_Puzzle.png "Eight Queen Puzzle")
+
 **Note**: Refer [Wikipedia](https://en.wikipedia.org/wiki/Eight_queens_puzzle) to better understand the Eight Queen Puzzle.
 
 ## Sample Input/Output: ##
