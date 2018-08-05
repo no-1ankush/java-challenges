@@ -25,7 +25,7 @@ public class TwoSumInArray {
 	}
 	
 	/**
-	 * Returns the Reversed String
+	 * Returns two indexes who's value sums to the given target
 	 * 
 	 * @param inputChars
 	 * @return String
