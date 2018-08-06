@@ -1,4 +1,4 @@
-package com.java.challenges.intersectstring;
+package com.java.challenges.string.intersectstring;
 
 import java.util.HashSet;
 import java.util.Set;

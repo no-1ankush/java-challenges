@@ -1,4 +1,4 @@
-package com.java.challenges.palindromicsubstring;
+package com.java.challenges.string.palindromicsubstring;
 
 /**
  * @author Ankush Gupta

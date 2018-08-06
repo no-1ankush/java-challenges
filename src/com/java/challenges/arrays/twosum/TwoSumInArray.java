@@ -1,4 +1,4 @@
-package com.java.challenges.twosum;
+package com.java.challenges.arrays.twosum;
 
 import java.util.Arrays;
 import java.util.HashMap;

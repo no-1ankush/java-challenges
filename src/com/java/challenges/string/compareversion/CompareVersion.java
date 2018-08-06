@@ -1,4 +1,4 @@
-package com.java.challenges.compareversion;
+package com.java.challenges.string.compareversion;
 
 /**
  * @author Ankush Gupta

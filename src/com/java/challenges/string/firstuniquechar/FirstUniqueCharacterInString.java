@@ -1,4 +1,4 @@
-package com.java.challenges.firstuniquechar;
+package com.java.challenges.string.firstuniquechar;
 
 public class FirstUniqueCharacterInString {
 

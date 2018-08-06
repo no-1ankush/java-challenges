@@ -1,4 +1,4 @@
-package com.java.challenges.reversewords;
+package com.java.challenges.string.reversewords;
 
 public class ReverseWordsInString {
 

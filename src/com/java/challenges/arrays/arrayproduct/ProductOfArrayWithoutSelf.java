@@ -1,4 +1,4 @@
-package com.java.challenges.arrayproduct;
+package com.java.challenges.arrays.arrayproduct;
 
 import java.util.Arrays;
 

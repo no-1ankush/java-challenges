@@ -1,4 +1,4 @@
-package com.java.challenges.reversestring;
+package com.java.challenges.string.reversestring;
 
 public class ReverseString {
 

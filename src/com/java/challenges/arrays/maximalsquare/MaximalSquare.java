@@ -1,4 +1,4 @@
-package com.java.challenges.maximalsquare;
+package com.java.challenges.arrays.maximalsquare;
 
 import java.util.Arrays;
 

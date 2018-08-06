@@ -1,4 +1,4 @@
-package com.java.challenges.duplicatenumber;
+package com.java.challenges.arrays.duplicatenumber;
 
 import java.util.Arrays;
 

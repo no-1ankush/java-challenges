@@ -1,4 +1,4 @@
-package com.java.challenges.maxsubarraysum;
+package com.java.challenges.arrays.maxsubarraysum;
 
 import java.util.Arrays;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package com.java.challenges.integertowords;
+package com.java.challenges.string.integertowords;
 
 /**
  * @author Ankush Gupta

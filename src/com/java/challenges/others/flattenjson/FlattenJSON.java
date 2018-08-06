@@ -1,4 +1,4 @@
-package com.java.challenges.flattenjson;
+package com.java.challenges.others.flattenjson;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package com.java.challenges.eightqueen;
+package com.java.challenges.arrays.eightqueen;
 
 import java.util.Arrays;
 
