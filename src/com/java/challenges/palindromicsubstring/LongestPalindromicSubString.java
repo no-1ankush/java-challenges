@@ -33,6 +33,10 @@ public class LongestPalindromicSubString {
 		String longestPalindrome = "";
 		int maxPalindromeLength = 0;
 		
+		if(inputString == null || inputString.length() < 2) {
+			return inputString;
+		}
+		
 		for(int i=0; i < inputString.length(); i++) {
 			if(isPalindrome(inputString, i-maxPalindromeLength, i)) {
 				longestPalindrome = inputString.substring(i-maxPalindromeLength, i + 1);
