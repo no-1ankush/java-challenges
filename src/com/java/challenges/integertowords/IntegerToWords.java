@@ -21,15 +21,15 @@ public class IntegerToWords {
 	public static void main(String[] args) {
 		int inputInt = 20;
 		System.out.println("\nInput: " + inputInt);
-		System.out.println("\nOutput: " + integerToWords(inputInt));
+		System.out.println("\nOutput: " + numberToWords(inputInt));
 
 		inputInt = 12345;
 		System.out.println("\nInput: " + inputInt);
-		System.out.println("\nOutput: " + integerToWords(inputInt));
+		System.out.println("\nOutput: " + numberToWords(inputInt));
 		
 		inputInt = 1234567891;
 		System.out.println("\nInput: " + inputInt);
-		System.out.println("\nOutput: " + integerToWords(inputInt));
+		System.out.println("\nOutput: " + numberToWords(inputInt));
 	}
 
 	/**
