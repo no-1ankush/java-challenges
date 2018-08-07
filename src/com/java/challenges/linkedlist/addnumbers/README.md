@@ -1,12 +1,10 @@
-# Two Sum in an Array
+# Add Two Linked List
 
 ## Problem Statement: ##
 
-Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+Given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
 
-**Assumption:** 
-* Each input would have exactly one solution.
-* Same element can not be used twice.
+You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
 ## Sample Input/Output: ##
 
@@ -18,28 +16,22 @@ Given an array of integers, return indices of the two numbers such that they add
             <th rowspan="2">Output</th>
         </tr>
         <tr>
-            <th>Integers</th>
-            <th>Target</th>
+            <th>Linked List 1</th>
+            <th>Linked List 2</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>1</td>
-            <td>[2, 7, 11, 15]</td>
-            <td>9</td>
-            <td>[0, 1]</td>
+            <td>[2,4,3]</td>
+            <td>[5,4,3]</td>
+            <td>[7,8,6]</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>[2, 3, 1, 5]</td>
-            <td>3</td>
-            <td>[0, 2]</td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td>[8, 11, -5, 4]</td>
-            <td>6</td>
-            <td>[1, 2]</td>
+            <td>[2,4,3]</td>
+            <td>[5,6,4]</td>
+            <td>[7,0,8]</td>
         </tr>
     </tbody>
 </table>

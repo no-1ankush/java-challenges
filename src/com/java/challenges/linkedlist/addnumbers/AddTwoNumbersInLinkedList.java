@@ -19,14 +19,30 @@ public class AddTwoNumbersInLinkedList {
 		l12.next = l13;
 		
 		ListNode l21 = new ListNode(5);
-		ListNode l22 = new ListNode(6);
-		l21.next = l12;
-		ListNode l23 = new ListNode(4);
+		ListNode l22 = new ListNode(4);
+		l21.next = l22;
+		ListNode l23 = new ListNode(3);
 		l22.next = l23;
 		
 		System.out.println("Input List Node 1: " + printListNode(l11));
 		System.out.println("Input List Node 2: " + printListNode(l21));
 		System.out.println("\nOutput List Node: " + printListNode(addTwoNumbers(l11, l21)));
+		
+		ListNode l14 = new ListNode(2);
+		ListNode l15 = new ListNode(4);
+		l14.next = l15;
+		ListNode l16 = new ListNode(3);
+		l15.next = l16;
+		
+		ListNode l24 = new ListNode(5);
+		ListNode l25 = new ListNode(6);
+		l24.next = l25;
+		ListNode l26 = new ListNode(4);
+		l25.next = l26;
+		
+		System.out.println("\n\nInput List Node 1: " + printListNode(l14));
+		System.out.println("Input List Node 2: " + printListNode(l24));
+		System.out.println("\nOutput List Node: " + printListNode(addTwoNumbers(l14, l24)));
 	}
 	
 	/**
