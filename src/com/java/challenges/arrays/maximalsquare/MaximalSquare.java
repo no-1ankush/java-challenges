@@ -2,6 +2,13 @@ package com.java.challenges.arrays.maximalsquare;
 
 import java.util.Arrays;
 
+/**
+ * @author Ankush Gupta
+ * 
+ * Email: no.1ankush@gmail.com 
+ * GitHub: https://github.com/no-1ankush
+ * LinkedIn: www.linkedin.com/in/no1ankush
+ */
 public class MaximalSquare {
 
 	public static void main(String[] args) {

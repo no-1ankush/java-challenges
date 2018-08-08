@@ -4,6 +4,13 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * @author Ankush Gupta
+ * 
+ * Email: no.1ankush@gmail.com 
+ * GitHub: https://github.com/no-1ankush
+ * LinkedIn: www.linkedin.com/in/no1ankush
+ */
 public class TwoSumInArray {
 
 	public static void main(String[] args) {

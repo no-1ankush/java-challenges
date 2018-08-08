@@ -1,5 +1,12 @@
 package com.java.challenges.string.firstuniquechar;
 
+/**
+ * @author Ankush Gupta
+ * 
+ * Email: no.1ankush@gmail.com 
+ * GitHub: https://github.com/no-1ankush
+ * LinkedIn: www.linkedin.com/in/no1ankush
+ */
 public class FirstUniqueCharacterInString {
 
 	public static void main(String[] args) {

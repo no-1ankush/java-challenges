@@ -2,6 +2,13 @@ package com.java.challenges.linkedlist.mergesortedlist;
 
 import java.util.PriorityQueue;
 
+/**
+ * @author Ankush Gupta
+ * 
+ * Email: no.1ankush@gmail.com 
+ * GitHub: https://github.com/no-1ankush
+ * LinkedIn: www.linkedin.com/in/no1ankush
+ */
 public class MergeSortedLists {
 
 	public static class ListNode {

@@ -1,5 +1,12 @@
 package com.java.challenges.linkedlist.intersection;
 
+/**
+ * @author Ankush Gupta
+ * 
+ * Email: no.1ankush@gmail.com 
+ * GitHub: https://github.com/no-1ankush
+ * LinkedIn: www.linkedin.com/in/no1ankush
+ */
 public class IntersectionOfLinkedLists {
 
 	public static class ListNode {
