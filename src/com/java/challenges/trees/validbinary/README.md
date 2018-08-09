@@ -1,4 +1,4 @@
-# Binary Search Tree Traversal
+# Valid Binary Search Tree #
 
 ## Problem Statement: ##
 

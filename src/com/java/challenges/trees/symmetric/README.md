@@ -1,4 +1,4 @@
-# Binary Search Tree Traversal
+# Symmetric Binary Tree #
 
 ## Problem Statement: ##
 
